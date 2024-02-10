@@ -1,0 +1,62 @@
+body{
+    /*background-color: darkslateblue;
+    background-color: linear-gradient(45deg,darkslateblue, white );*/
+    
+    background-image: url("../imgs/starry-night.jpg");
+    background:cover;
+    background-color: linear-gradient(45deg,darkslateblue, white );
+}
+p > b{
+   color: rgb(12, 109, 235); 
+   font-family: 'Protest Revolution', sans-serif;
+}
+p{
+    color: whitesmoke;
+    font-size:xx-large;
+    text-align: center;
+    font-family: 'Protest Strike', sans-serif;
+}
+h1{
+    text-align: center;
+    /*font-family: 'Bahianita', sans-serif;*/
+    font-family: 'Honk', system-ui;
+    font-size: 1000%;
+}
+em{
+    color:#17a2ff;
+}
+.lyrics{
+    margin-left: 200px;
+    margin-right:200px;
+    border-radius: 25px;
+    padding-top:20px;
+    padding-left:500px;
+    padding-right:500px;
+    padding-bottom:10px;
+    background-color: rgba(101, 61, 209, 0.521);
+    border-style:double;
+    border-color: white;
+    border-width: 10px;
+}
+
+h3{
+    font-size: 90px;
+    text-align: center;
+    font-family: 'Protest Guerrilla', sans-serif;
+    color: rgba(0, 217, 255, 0.993);
+    /*text-shadow: 10px 10px;*/
+    text-decoration:underline;
+    kerning: 150%;
+}
+.audio{
+    /*background-image: url("../imgs/Overtime.jpeg");*/
+    text-align: center;
+    margin-left: 700px;
+    margin-right:700px;
+    border-radius: 25px;
+    padding-top:30px;
+    padding-left:80px;
+    padding-right:100px;
+    padding-bottom:10px;
+    background-color: grey;
+}
